@@ -12,7 +12,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Exilir](https://www.typescriptlang.org/)
+- [Elixir](https://www.typescriptlang.org/)
 
 ## 🚀 Como executar o Phoenix server
 
