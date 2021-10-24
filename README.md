@@ -1,4 +1,4 @@
-<h1 align="center">NLW Heat Rocketseat - Exilir</h1>
+<h1 align="center">NLW Heat Rocketseat - Elixir</h1>
 
 <p align="center">
   Stage 4
